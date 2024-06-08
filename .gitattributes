@@ -1,0 +1,8 @@
+Implementation filter=lfs diff=lfs merge=lfs -text
+Clip.mov filter=lfs diff=lfs merge=lfs -text
+.mov filter=lfs diff=lfs merge=lfs -text
+Major[[:space:]]Project[[:space:]]Review.key filter=lfs diff=lfs merge=lfs -text
+model/* filter=lfs diff=lfs merge=lfs -text
+sampleTest_Pictures/* filter=lfs diff=lfs merge=lfs -text
+web/* filter=lfs diff=lfs merge=lfs -text
+Implementation[[:space:]]Clip.mov filter=lfs diff=lfs merge=lfs -text
