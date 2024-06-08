@@ -6,4 +6,3 @@ model/* filter=lfs diff=lfs merge=lfs -text
 sampleTest_Pictures/* filter=lfs diff=lfs merge=lfs -text
 web/* filter=lfs diff=lfs merge=lfs -text
 Implementation[[:space:]]Clip.mov filter=lfs diff=lfs merge=lfs -text
-web/ filter=lfs diff=lfs merge=lfs -text
